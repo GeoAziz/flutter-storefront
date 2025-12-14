@@ -27,7 +27,7 @@ Visual tracking board for Flutter Storefront Phase 1 MVP. This Kanban captures t
 
 | # | Title | Size | Labels | Status | Assignee | Issue Link |
 |---|-------|------|--------|--------|----------|-----------|
-| 1 | Harden CI & Analyzer | S | `infra` `critical` `tests` | ✅ Todo | @GeoAziz | [#9](https://github.com/GeoAziz/flutter-storefront/issues/9) |
+| 1 | Harden CI & Analyzer | S | `infra` `critical` `tests` | ⛳ In Progress | @GeoAziz | [#9](https://github.com/GeoAziz/flutter-storefront/issues/9) |
 | 2 | Route Name Standardization | S | `infra` `critical` | ✅ Todo | @GeoAziz | [#10](https://github.com/GeoAziz/flutter-storefront/issues/10) |
 | 3 | ProviderScope Wiring & ProductRepository Toggle | S | `backend` `infra` | ✅ Todo | @GeoAziz | [#11](https://github.com/GeoAziz/flutter-storefront/issues/11) |
 
